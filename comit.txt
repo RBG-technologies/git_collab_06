@@ -1,3 +1,1 @@
-initial commit (master)
-
-commit in (qa)
+initial commt (master)
