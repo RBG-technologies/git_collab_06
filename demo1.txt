@@ -1,0 +1,6 @@
+const currentUser: User = {
+  id: 101,
+  name: "Aarav",
+  isActive: true,
+  role: "admin",
+};
